@@ -100,13 +100,3 @@
 
 ---
 
-## 💡 Tip for Your Students
-
-> Follow the chapters in order — each concept builds on the previous one like steps in a staircase.
-
----
-
-If you want next, I can:
-
-* Convert this into a **proper GitHub README with links (`#anchors`)**
-* Or start writing **Chapter 1 in full teaching format**
